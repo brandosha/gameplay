@@ -1,0 +1,16 @@
+CACHE MANIFEST
+# 2019-10-11 21:29:28.853055
+CACHE:
+index.html
+sha.txt
+images/icon-large.png
+images/icon.png
+images/drive.png
+defaults/apple-touch-startup-image-1536x2008.png
+defaults/apple-touch-startup-image-1242x2148.png
+defaults/apple-touch-startup-image-640x1096.png
+defaults/apple-touch-startup-image-2048x1496.png
+defaults/apple-touch-startup-image-750x1294.png
+assets/silent.mp3
+NETWORK:
+*
