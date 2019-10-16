@@ -1,1 +1,2 @@
 - Add support for saving game states with Siri Shortcuts
+- Bug fixes and UI improvements
