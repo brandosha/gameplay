@@ -1,4 +1,2 @@
 v3.3.0
-- Added game controller support
-v3.3.2
 - Various fixes and improvements
